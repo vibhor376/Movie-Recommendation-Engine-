@@ -44,7 +44,4 @@
 <img src="https://github.com/Spidy20/Movie_Recommender_App/blob/master/t2.png">
 
 
-## Just follow☝️ me and Star⭐ my repository 
 
-# [Buy me a Coffee☕](https://www.buymeacoffee.com/spidy20)
-## [Donate me on PayPal(It will inspire me to do more projects)](https://www.paypal.me/spidy1820)
